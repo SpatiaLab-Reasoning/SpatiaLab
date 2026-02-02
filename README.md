@@ -4,17 +4,18 @@
 <div align=center>
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://openreview.net/forum?id=fWWUPOb0CT)
+[![Project-Website](https://img.shields.io/badge/Project-Website-red)](https://spatialab-reasoning.github.io/)
 [![arxiv](https://img.shields.io/badge/-arXiv-blue?style=flat-square&logo=arXiv&color=1f1f15)](#) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%320beff?style=flat-square&logo=kaggle&color=1f1f18)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%2320beff?style=flat-square&amp;logo=github&amp;color=360893)](https://github.com/SpatiaLab-Reasoning/SpatiaLab)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%2320beff?style=flat-square&amp;logo=huggingface&amp;color=360893)](https://huggingface.co/datasets/ciol-research/SpatiaLab)
 
 
-Azmine Toushik Wasi, Wahid Faisal, Abdur Rahman, Mahfuz Ahmed Anik, Munem Shahriar, Mohsin Mahmud Topu, Sadia Tasnim Meem, Rahatun Nesa Priti, Sabrina Afroz Mitu, Md. Iqramul Hoque, Shahriyar Zaman Ridoy, Mohammed Eunus Ali, Majd Hawasly, Mohammad Raza, Md Rizwan Parvez
+***Azmine Toushik Wasi, Wahid Faisal, Abdur Rahman, Mahfuz Ahmed Anik, Munem Shahriar, Mohsin Mahmud Topu, Sadia Tasnim Meem, Rahatun Nesa Priti, Sabrina Afroz Mitu, Md. Iqramul Hoque, Shahriyar Zaman Ridoy, Mohammed Eunus Ali, Majd Hawasly, Mohammad Raza, Md Rizwan Parvez***
 
 Computational Intelligence and Operations Laboratory (CIOL) • Shahjalal University of Science and Technology (SUST) • Monash University • Qatar Computing Research Institute (QCRI)
 
-*The Fourteenth International Conference on Learning Representations (ICLR 2026)*
+*The Fourteenth International Conference on Learning Representations (**ICLR 2026**)*
 
 </div>
 
